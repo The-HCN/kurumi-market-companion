@@ -1,0 +1,14 @@
+{
+  "text": "チャンス！",
+  "meaning": "机会！",
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "+10%",
+  "pitch": "+45Hz",
+  "volume": "-5%",
+  "type": "AI synthesized Japanese female voice",
+  "generated": "2026-10-15",
+  "generator": "edge-tts",
+  "generation_only_online": true,
+  "playback": "local WAV",
+  "note": "Generic bright female voice; no original performer audio used."
+}

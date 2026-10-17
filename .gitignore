@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+settings.json
+settings.tmp
+artifacts/
+.runtime/
+.build-venv/
+release/
+rollback/
+disk_audit.*
+installed_apps.json
+assets/kurumi.png
+assets/kurumi-sheet-v2.png
+assets/kurumi-icon.png
+assets/audio/archive/
+assets/audio/kurumi-official-pv*
